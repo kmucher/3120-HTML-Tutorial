@@ -5,3 +5,8 @@ h1 {
 li {
     list-style-type: none;
 }
+/* I did not do the li/span addition because it was pointless */
+.special {
+    color: orange;
+    font-weight: bold;
+}
