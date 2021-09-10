@@ -1,3 +1,7 @@
 Kylee Mucher
 JS 1) 
 YouTube; https://www.youtube.com/
+
+JS 2)
+In Microsoft Edge, JavaScript is both compiled and interpreted, as it is both used to code directly in the browser and interpret what is written at the same time. 
+From what I have read, Safari is able to compile JavaScript, but it uses an outside interpretor to interpret the code. 
