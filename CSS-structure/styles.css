@@ -1,5 +1,9 @@
 /* Create your test CSS here */
 
-p {
+p.special {
   color: red;
+}
+
+p {
+  color: blue;
 }
