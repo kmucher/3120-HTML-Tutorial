@@ -1,9 +1,11 @@
-/* Create your test CSS here */
-
+/* My Test CSS is Here */
+/*This makes the special paragraph text red...*/
 p.special {
   color: red;
 }
-
+/* and this one makes the rest of the paragraphs blue */
 p {
   color: blue;
 }
+/* BTW I'm sorry for adding comments before the section*/
+/* I wanted to explain some actions */
