@@ -5,8 +5,20 @@ h1 {
 li {
     list-style-type: none;
 }
-/* I did not do the li/span addition because it was pointless */
-.special {
+/* I changed the special class to only li elements... */
+li.special {
     color: orange;
     font-weight: bold;
 }
+
+li em {
+  color: rebeccapurple;
+}
+
+h1 + p {
+  font-size: 200%;
+}
+/* ...because of me testing this part out */
+p span {
+    color: red;
+} 
